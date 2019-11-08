@@ -1,0 +1,11 @@
+C:\Users\Aakash\source\repos\socket_program_console_client_program\bin\Debug\netcoreapp3.0\socket_program_console_client_program.exe
+C:\Users\Aakash\source\repos\socket_program_console_client_program\bin\Debug\netcoreapp3.0\socket_program_console_client_program.deps.json
+C:\Users\Aakash\source\repos\socket_program_console_client_program\bin\Debug\netcoreapp3.0\socket_program_console_client_program.runtimeconfig.json
+C:\Users\Aakash\source\repos\socket_program_console_client_program\bin\Debug\netcoreapp3.0\socket_program_console_client_program.runtimeconfig.dev.json
+C:\Users\Aakash\source\repos\socket_program_console_client_program\bin\Debug\netcoreapp3.0\socket_program_console_client_program.dll
+C:\Users\Aakash\source\repos\socket_program_console_client_program\bin\Debug\netcoreapp3.0\socket_program_console_client_program.pdb
+C:\Users\Aakash\source\repos\socket_program_console_client_program\obj\Debug\netcoreapp3.0\socket_program_console_client_program.csprojAssemblyReference.cache
+C:\Users\Aakash\source\repos\socket_program_console_client_program\obj\Debug\netcoreapp3.0\socket_program_console_client_program.AssemblyInfoInputs.cache
+C:\Users\Aakash\source\repos\socket_program_console_client_program\obj\Debug\netcoreapp3.0\socket_program_console_client_program.AssemblyInfo.cs
+C:\Users\Aakash\source\repos\socket_program_console_client_program\obj\Debug\netcoreapp3.0\socket_program_console_client_program.dll
+C:\Users\Aakash\source\repos\socket_program_console_client_program\obj\Debug\netcoreapp3.0\socket_program_console_client_program.pdb

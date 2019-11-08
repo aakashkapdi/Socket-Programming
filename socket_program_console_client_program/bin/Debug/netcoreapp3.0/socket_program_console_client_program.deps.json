@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "socket_program_console_client_program/1.0.0": {
+        "runtime": {
+          "socket_program_console_client_program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "socket_program_console_client_program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
